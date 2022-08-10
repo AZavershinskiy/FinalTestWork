@@ -10,6 +10,6 @@
 4. Имеются несколько версий (коммитов): 
 - Initial commit (bbbaf...);
 - GitHub repository created (f0304...);
-- Added a program for the task (...)
+- Added a program for the task (847d4...)
 
 
